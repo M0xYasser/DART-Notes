@@ -1,6 +1,6 @@
 # DART Notes
 
-## 🏆 Track your prgress
+## 🏆 Track your progress
 - [ ] [⭐ "Hello, World!" program](https://github.com/M0xYasser/DART-Notes#-hello-world-program)
 - [ ] [💬 Comments](https://github.com/M0xYasser/DART-Notes#-comments)
 - [ ] [ℹ️ Data Types & Variables](https://github.com/M0xYasser/DART-Notes#ℹ%EF%B8%8F-data-types--variables)
