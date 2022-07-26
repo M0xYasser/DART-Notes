@@ -84,7 +84,7 @@ A string is the sequence of the character, and is used to store the data like **
 ```dart
 void main() {
   String name_1 = "M0xYasser" ;
-  // OR can us var
+  // OR can use var
   var name_2 = "M0xYasser" ;
 }
 ```
