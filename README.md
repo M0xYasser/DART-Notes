@@ -67,6 +67,7 @@ void main() {
 }
 ```
 And you can also replace them with `var`.
+ 
 `var` can be initialized as any type.
 > Notes : `var` can't change **Type of the variable**, but can change **Value of the variable** later in code.
 ```dart
