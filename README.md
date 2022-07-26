@@ -4,7 +4,10 @@
 - [ ] [⭐ "Hello, World!" program](https://github.com/M0xYasser/DART-Notes#-hello-world-program)
 - [ ] [💬 Comments](https://github.com/M0xYasser/DART-Notes#-comments)
 - [ ] [ℹ️ Data Types & Variables](https://github.com/M0xYasser/DART-Notes#ℹ%EF%B8%8F-data-types--variables)
- 
+- - [ ] [1️⃣ Numbers](https://github.com/M0xYasser/DART-Notes#1%EF%B8%8F⃣-numbers)
+- - [ ] 2️⃣ String
+- - [ ] 3️⃣ Boolean
+
 <details>
 <summary>
 
@@ -55,7 +58,7 @@ The way to declare variables is :
 Data_Types Variable_Name ;
 ```
 > Notes : All data types in dart have the initial value by default `null`
-#### 1. Numbers
+#### 1️⃣ Numbers
 The first type is Numbers, and is used to store numeric values.
 It is classified into two main types `int` and `double`.
 ```dart
@@ -76,7 +79,7 @@ void main() {
   var height = 185.5;
 }
 ```
-#### 2. String
+#### 2️⃣ String
 A string is the sequence of the character, and is used to store the data like **name, address, special character, etc**.
 ```dart
 void main() {
@@ -86,7 +89,7 @@ void main() {
 }
 ```
 > Notes : The letter **S** in the word `String` is a **Capital letter**.
-#### 3. Boolean
+#### 3️⃣ Boolean
 The Boolean type represents the two values **true and false**. 
 ```dart
 void main() {
