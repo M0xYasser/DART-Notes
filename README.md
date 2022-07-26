@@ -1,7 +1,7 @@
 # DART Notes
 
 ## 🏆 Track your prgress
-- [ ] [⭐ "Hello, World!" program](https://github.com/M0xYasser/DART-Notes/edit/main/README.md#-hello-world-program)
+- [ ] [⭐ "Hello, World!" program](https://github.com/M0xYasser/DART-Notes#-hello-world-program)
 - [ ] 💬 Comments
 - [ ] ℹ️ Data Types & Variables
  
