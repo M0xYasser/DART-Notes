@@ -1,17 +1,17 @@
 # DART Notes
 
 ## 🏆 Track your progress
-- [ ] [⭐ "Hello, World!" program](https://github.com/M0xYasser/DART-Notes#-hello-world-program)
+- [ ] [⭐ "Hello, World!" program](#introduction)
 - [ ] [💬 Comments](https://github.com/M0xYasser/DART-Notes#-comments)
 - [ ] [ℹ️ Data Types & Variables](https://github.com/M0xYasser/DART-Notes#ℹ%EF%B8%8F-data-types--variables)
 - - [ ] [1️⃣ Numbers](https://github.com/M0xYasser/DART-Notes#1%EF%B8%8F⃣-numbers)
-- - [ ] 2️⃣ String
+- - [ ] [2️⃣ String](#string)
 - - [ ] 3️⃣ Boolean
 
 <details>
 <summary>
 
-### ⭐ "Hello, World!" program
+### ⭐ "Hello, World!" program <a name="introduction"></a>
 
 </summary>
 
@@ -79,7 +79,7 @@ void main() {
   var height = 185.5;
 }
 ```
-#### 2️⃣ String
+#### 2️⃣ String <a name="string"></a>
 A string is the sequence of the character, and is used to store the data like **name, address, special character, etc**.
 ```dart
 void main() {
