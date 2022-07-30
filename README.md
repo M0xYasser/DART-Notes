@@ -6,7 +6,7 @@
 - [ ] [ℹ️ Data Types & Variables](https://github.com/M0xYasser/DART-Notes#ℹ%EF%B8%8F-data-types--variables)
 - - [ ] [1️⃣ Numbers](#Numbers)
 - - [ ] [2️⃣ String](#string)
-- - [ ] 3️⃣ Boolean
+- - [ ] [3️⃣ Boolean](#Boolean)
 
 <details>
 <summary>
@@ -89,7 +89,7 @@ void main() {
 }
 ```
 > Notes : The letter **S** in the word `String` is a **Capital letter**.
-#### 3️⃣ Boolean
+#### 3️⃣ Boolean <a name="Boolean"></a>
 The Boolean type represents the two values **true and false**. 
 ```dart
 void main() {
