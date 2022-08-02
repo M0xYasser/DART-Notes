@@ -4,7 +4,7 @@
 - [x] [⭐ "Hello, World!" program](#introduction)
 - [x] [💬 Comments](https://github.com/M0xYasser/DART-Notes#-comments)
 - [ ] [ℹ️ Data Types & Variables](https://github.com/M0xYasser/DART-Notes#ℹ%EF%B8%8F-data-types--variables)
-- - [ ] [1️⃣ Numbers](#Numbers)
+- - [x] [1️⃣ Numbers](#Numbers)
 - - [ ] [2️⃣ String](#string)
 - - [ ] [3️⃣ Boolean](#Boolean)
 
