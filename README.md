@@ -3,7 +3,7 @@
 ## 🏆 Track your progress
 - [x] [⭐ "Hello, World!" program](#introduction)
 - [x] [💬 Comments](https://github.com/M0xYasser/DART-Notes#-comments)
-- [ ] [ℹ️ Data Types & Variables](https://github.com/M0xYasser/DART-Notes#ℹ%EF%B8%8F-data-types--variables)
+- [x] [ℹ️ Data Types & Variables](https://github.com/M0xYasser/DART-Notes#ℹ%EF%B8%8F-data-types--variables)
 - - [x] [1️⃣ Numbers](#Numbers)
 - - [x] [2️⃣ String](#string)
 - - [x] [3️⃣ Boolean](#Boolean)
